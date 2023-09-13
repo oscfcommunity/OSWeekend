@@ -27,8 +27,11 @@ Join the Community
 Stay connected with the OSW community to receive updates, participate in discussions, and explore open-source technologies:
 
 * Website: Visit our website at www.opensourceweekend.org for upcoming event details and resources.
-* Twitter: Follow us on Twitter for the latest news, event announcements, and open-source insights.
-* LinkedIn: Connect with us on LinkedIn to network with other community members and stay informed about our activities.
+* [Twitter](https://twitter.com/osweekend): Follow us on Twitter for the latest news, event announcements, and open-source insights.
+* [LinkedIn](https://www.linkedin.com/company/open-source-weekend/): Connect with us on LinkedIn to network with other community members and stay informed about our activities.
+* [Instagram](https://www.instagram.com/osweekend/): Connect with us on Instagram to network with other community members and stay informed about our activities.
+* [Facebook](https://www.facebook.com/OSWeekend/): Connect with us on Facebook to network with other community members and stay informed about our activities.
+
 
 We believe in the power of open-source collaboration and invite you to be a part of OSW. Let's explore, learn, and contribute together!
 
