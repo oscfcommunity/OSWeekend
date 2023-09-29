@@ -25,7 +25,7 @@ Here's how you can get involved:
 * Contribute to Projects: Collaborate with other developers on open-source projects showcased during OSW events.
 * Connect with the Community: Join our online forums and social media channels to connect with like-minded individuals, ask questions, and share your insights.
 
-Join the Community
+Join the [Community](https://discord.gg/BSEnyE6KpX)
 Stay connected with the OSW community to receive updates, participate in discussions, and explore open-source technologies:
 
 * Website: Visit our website at www.opensourceweekend.org for upcoming event details and resources.
